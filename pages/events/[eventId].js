@@ -1,7 +1,7 @@
 function EventDetailPage() {
   return (
     <div>
-      <h1></h1>
+      <h1>Event Detail</h1>
     </div>
   );
 }
